@@ -46,3 +46,12 @@ JavaScript قم باستخدام لغة
 JavaScriptب CSS و HTMLلا تنسى ربط صفحاتك ال
 
 </div>
+favorites
+home
+detail
+add movie (input fields) { 
+    movie name 
+    movie discription
+    image
+    add button
+}
